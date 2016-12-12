@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=m\ r
+comment0.target=Numero(int,\ int)
+comment0.text=\ Constructor\ b\u00E1sico\ \ \ \ \ \ \ \ \ \ *\n\ \ -\ Requiere\ necesariamente\ \ *\nun\ numero
+comment1.params=
+comment1.target=void\ Increm()
+comment2.params=
+comment2.target=float\ Total()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\ M\u00E9todo\ toString\ para\ la\ \ \ \ \ \ \ *\n\ impresi\u00F3n\ del\ contenido\ de\ \ \ \ *\nde\ un\ objeto\ de\ tipo\ Numero\ y\ su\ frec\ relativa
+comment4.params=
+comment4.target=void\ listarNumeros()
+comment5.params=m
+comment5.target=Numero\ buscarNumero(int)
+comment6.params=
+comment6.target=int\ Moda()
+comment7.params=
+comment7.target=void\ listarModas()
+comment8.params=
+comment8.target=boolean\ NoNum()
+numComments=9
